@@ -3,4 +3,5 @@ Covid19 info discord bot. The bot fetches information using selenium from worldo
 
 # Credits
 Developer: Me :D
+
 Thats about it
